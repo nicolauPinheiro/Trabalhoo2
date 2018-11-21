@@ -1,8 +1,8 @@
 # Trabalhoo2
 Passo 1<br/>
-Antes de tudo, certifique-se que você tem o python 3.6 instalado em seu computador e se está utilizando o sistema operacional Windows. Depois de ter feito o clone do repositório ou baixado os arquivos no formato .ZIP(extraia os arquivos em alguma parte do seu computador) e siga os passos seguintes.
+Antes de tudo, certifique-se que você tem o python 3.6 instalado em seu computador e se está utilizando o sistema operacional Windows. Depois de ter feito o clone do repositório ou baixado os arquivos no formato .ZIP(extraia os arquivos em alguma parte do seu computador) e siga os passos seguintes.<br/>
 Passo 2<br/>
-Você deverá ver dois arquivos: um cujo nome é “main.py” e outro com o nome de “veiculo.py”. Para iniciar o programa, antes de tudo você deve abrir o IDLE, aberto o IDLE, clique em “file” no canto superior esquerdo e clique na opção “open”, então você deve ir na parte onde você guardou os arquivos baixado e o abra o arquivo “main.py” selecionando-o com um clique e acionando enter. Agora basta executar esse arquivo apertando F5 ou clicando em “run” na parte superior e na opção Run Module
+Você deverá ver dois arquivos: um cujo nome é “main.py” e outro com o nome de “veiculo.py”. Para iniciar o programa, antes de tudo você deve abrir o IDLE, aberto o IDLE, clique em “file” no canto superior esquerdo e clique na opção “open”, então você deve ir na parte onde você guardou os arquivos baixado e o abra o arquivo “main.py” selecionando-o com um clique e acionando enter. Agora basta executar esse arquivo apertando F5 ou clicando em “run” na parte superior e na opção Run Module<br/>
 Passo 3<br/>
 Iniciará a tela principal do programa com as opções de tarefas que você deseja que o programa realize. Para cadastrar veículos ao sistema, digite o comando 2 na parte inferior onde é solicitado e pressione enter, após isso, será solicitado a marca do veículo, digite a marca do veículo e dê um enter, então será solicitado o modelo do veículo, digite o modelo e novamente enter, logo após isso também será solicitado o ano, digite o ano e enter, depois digite o valor e enter. Pronto, veículo cadastrado.
 Passo 4<br/>
